@@ -11,7 +11,7 @@ class PageSatu extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           elevation: 0,
-          backgroundColor: Colors.transparent,
+          //backgroundColor: Colors.transparent,
           title: Text(
             "Page 1",
             style: TextStyle(color: Colors.black),
